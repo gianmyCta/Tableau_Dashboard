@@ -86,7 +86,7 @@ The dashboard provides analysis on:
 
 ## 📖 How to Use
 1. Open `STORY_EUROPE.pdf` to view the static version.
-2. 2. Interactive versione on **Tableau Public**: https://public.tableau.com/shared/KYRSD4CWB?:display_count=n&:origin=viz_share_link.
+2. Interactive versione on **Tableau Public**: https://public.tableau.com/shared/KYRSD4CWB?:display_count=n&:origin=viz_share_link.
 
 
 ---
